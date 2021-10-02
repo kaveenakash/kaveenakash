@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
-<a href="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
+<a align="center"  href="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
 	<img align="center" alt="Kaveen Akash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark" />
 </a>
 <a align="right" margin="12px"  href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenakash&layout=compact&hide_border=true&theme=vue-dark">
