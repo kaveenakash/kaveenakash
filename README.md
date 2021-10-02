@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia">
-	<img align="center" alt="Kaveen Akash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark">
+	<img align="center" alt="Kaveen Akash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaveenakash&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue-dark" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenakash&layout=compact&theme=algolia">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenakash&layout=compact&theme=algolia" />
 </a>
