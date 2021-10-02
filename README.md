@@ -46,8 +46,8 @@ You can click the Preview link to take a look at your changes.
 	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveenakash&&hide_border=true&layout=compact&theme=vue-dark" /></p>
 </a>
 <br/>
-<a align="center"  href="https://github-readme-streak-stats.herokuapp.com/?user=kaveenakash&">
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveenakash&theme=vue-dark" alt="kaveenakash" /></p>
+<a align="center"  href="https://github-readme-streak-stats.herokuapp.com/?user=kaveenakash&hide_border=true">
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveenakash&theme=vue-dark&hide_border=true" alt="kaveenakash" /></p>
 </a>
 
 ---
