@@ -1,9 +1,14 @@
 Hola, I'm Kaveen Akash 👋
 
+
+
+
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning Javascript libraries(next js , express js)...
-- 💞️ I’m currently work on pearson ...
-
+- 💼 I’m currently work as a Software Engineer at pearson 
+- 🥅 2021 Goals: Contribute more to projects
+- ⚡ Fun fact: I love to play chess
+- 😄 Pronouns: He/Him
 - 📫 Contact Me at - kaveenakashya@gmail.com
 
 <!---
