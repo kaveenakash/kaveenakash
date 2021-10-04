@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Kaveen Akash</h1>
 
 <p align="center" ><img 
- src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="40%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 <!-- https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif -->
 <!-- https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif -->
 <p align="center">I'm full stack developer.<br/>I specialize in Web-Development (React JS), Mobile(React Native) and Backend(Node JS) .<br> I also love writing Tech-blogs, UI Design etc.<br></p><br/>
