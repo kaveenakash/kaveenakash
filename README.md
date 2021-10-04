@@ -1,6 +1,14 @@
 <h1 align="center">Hola 👋, I'm Kaveen Akash</h1>
 
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
+
+<p align="center">I'm full stack developer.<br/>I specialize in Web-Development (React JS), Mobile(React Native) and Backend(Node JS) .<br> I also love writing Tech-blogs, UI Design etc.<br></p><br/>
+
+
+---
+<h3 align="left">What I currently do:</h3>
 
 
 - 👀 I’m interested in web development...
