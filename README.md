@@ -8,7 +8,7 @@
 
 
 ---
-<h3 align="left">What I currently do :</h3>
+<h3 align="left">What I currently do:</h3>
 
 
 - 👀 I’m interested in web development...
