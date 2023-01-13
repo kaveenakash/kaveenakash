@@ -14,7 +14,7 @@
 - 👀 I’m interested in web development...
 - 🌱 I’m currently learning Javascript libraries(next js , express js)...
 - 💼 I’m currently work as a Software Engineer at pearson 
-- 🥅 2022 Goals: Contribute more to projects
+- 🥅 2023 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play chess
 - 😄 Pronouns: He/Him
 - 📫 Contact Me at - kaveenakashya@gmail.com
